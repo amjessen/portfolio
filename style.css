@@ -1,0 +1,57 @@
+p {
+    font-family: 'Cabin', sans-serif;
+    font-size: 1rem;
+    color: black
+}
+
+h1 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 4rem;
+    color: black
+}
+h2 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    color: black
+};
+
+h3 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    color: black
+}
+
+h4 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 1.25rem;
+    color: black
+}
+
+h5 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 0.875rem;
+    color: black
+}
+h6 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 0.75rem;
+    color: black
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    padding-left: 5%;
+}
+
+#projects{
+    justify-content: flex-start;
+}
